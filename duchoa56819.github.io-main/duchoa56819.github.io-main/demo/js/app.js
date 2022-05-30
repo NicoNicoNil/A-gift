@@ -35,7 +35,7 @@ particlesJS('particles-js',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://www.pinclipart.com/picdir/big/549-5491701_freetoedit-cute-kawaii-cat-kitten-food-hungry-cute.png",
+          "src": "https://i.pinimg.com/originals/28/21/c1/2821c1dd1f582ae3f4a86d92695e16fd.gif",
           //"src": "https://i.pinimg.com/originals/49/03/db/4903db6a9815df2520115341422ea9ae.png",
           "width": 300,
           "height": 400
