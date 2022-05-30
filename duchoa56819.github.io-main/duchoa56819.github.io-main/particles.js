@@ -39,7 +39,7 @@ var pJS = function(tag_id, params){
           nb_sides: 5
         },
         image: {
-          src: 'https://123emoji.com/wp-content/uploads/2017/08/sticker-99.png',
+          src: 'https://i.pinimg.com/originals/28/21/c1/2821c1dd1f582ae3f4a86d92695e16fd.gif',
           width: 100,
           height: 100
         }
